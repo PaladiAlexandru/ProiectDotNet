@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "HRtZhqANB1DE2mwwN6Wq5xZVFQdoEn7v3e/oSN49f2jSNuHdaJeU3FKNuWEWTAHoNmA4YRy9Ulch6LO2nI2EqQ==",
-  "success": true,
+  "dgSpecHash": "Hc+as8ifItNB/X5Y3ARrAFi9xdRDBF8hX3zJPEP1mut5gpHfELGHIzU14mG1SbFFu4nXRx5yFofmz4ywDj/KWQ==",
+  "success": false,
   "projectFilePath": "C:\\Users\\andre\\IdeaProjects\\ProiectDotNet\\Application\\Application.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Domain is not compatible with net5.0.403 (.NETCoreApp,Version=v5.0.403). Project Domain supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Domain",
+      "targetGraphs": [
+        "net5.0.403"
+      ]
+    }
+  ]
 }

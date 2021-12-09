@@ -18,7 +18,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net5.0.403"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -26,8 +26,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net5.0.403": {
+            "targetAlias": "net5.0.403",
             "projectReferences": {
               "C:\\Users\\andre\\IdeaProjects\\ProiectDotNet\\Domain\\Domain.csproj": {
                 "projectPath": "C:\\Users\\andre\\IdeaProjects\\ProiectDotNet\\Domain\\Domain.csproj"
@@ -42,8 +42,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net5.0.403": {
+          "targetAlias": "net5.0.403",
           "imports": [
             "net461",
             "net462",

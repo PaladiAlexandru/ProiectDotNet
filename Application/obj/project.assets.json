@@ -1,10 +1,10 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
+    "net5.0.403": {
       "Domain/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
+        "framework": "Unsupported,Version=v0.0",
         "compile": {
           "bin/placeholder/Domain.dll": {}
         },
@@ -22,7 +22,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net6.0": [
+    "net5.0.403": [
       "Domain >= 1.0.0"
     ]
   },
@@ -43,7 +43,7 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net6.0"
+        "net5.0.403"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -51,8 +51,8 @@
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net5.0.403": {
+          "targetAlias": "net5.0.403",
           "projectReferences": {
             "C:\\Users\\andre\\IdeaProjects\\ProiectDotNet\\Domain\\Domain.csproj": {
               "projectPath": "C:\\Users\\andre\\IdeaProjects\\ProiectDotNet\\Domain\\Domain.csproj"
@@ -67,8 +67,8 @@
       }
     },
     "frameworks": {
-      "net6.0": {
-        "targetAlias": "net6.0",
+      "net5.0.403": {
+        "targetAlias": "net5.0.403",
         "imports": [
           "net461",
           "net462",
@@ -82,5 +82,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Domain is not compatible with net5.0.403 (.NETCoreApp,Version=v5.0.403). Project Domain supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Domain",
+      "targetGraphs": [
+        "net5.0.403"
+      ]
+    }
+  ]
 }

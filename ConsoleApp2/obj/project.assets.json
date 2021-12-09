@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net5.0.403": {}
+    "net5.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0.403": []
+    "net5.0": []
   },
   "packageFolders": {
     "C:\\Users\\andre\\.nuget\\packages\\": {}
@@ -13,18 +13,18 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\IdeaProjects\\ProiectDotNet\\WebAPI\\WebAPI.csproj",
-      "projectName": "WebAPI",
-      "projectPath": "C:\\Users\\andre\\IdeaProjects\\ProiectDotNet\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\andre\\IdeaProjects\\ProiectDotNet\\ConsoleApp2\\ConsoleApp2.csproj",
+      "projectName": "ConsoleApp2",
+      "projectPath": "C:\\Users\\andre\\IdeaProjects\\ProiectDotNet\\ConsoleApp2\\ConsoleApp2.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\IdeaProjects\\ProiectDotNet\\WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\andre\\IdeaProjects\\ProiectDotNet\\ConsoleApp2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0.403"
+        "net5.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -32,8 +32,8 @@
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0.403": {
-          "targetAlias": "net5.0.403",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "projectReferences": {}
         }
       },
@@ -44,8 +44,8 @@
       }
     },
     "frameworks": {
-      "net5.0.403": {
-        "targetAlias": "net5.0.403",
+      "net5.0": {
+        "targetAlias": "net5.0",
         "imports": [
           "net461",
           "net462",
@@ -57,9 +57,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
