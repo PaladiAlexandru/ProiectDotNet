@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\prico\\Desktop\\Classification-of-IrisFlower\\Persistence\\Persistence.csproj": {}
+    "C:\\Users\\andre\\IdeaProjects\\ProiectDotNet\\Persistence\\Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\prico\\Desktop\\Classification-of-IrisFlower\\Application\\Application.csproj": {
+    "C:\\Users\\andre\\IdeaProjects\\ProiectDotNet\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\prico\\Desktop\\Classification-of-IrisFlower\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\IdeaProjects\\ProiectDotNet\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\prico\\Desktop\\Classification-of-IrisFlower\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\prico\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\prico\\Desktop\\Classification-of-IrisFlower\\Application\\obj\\",
+        "projectPath": "C:\\Users\\andre\\IdeaProjects\\ProiectDotNet\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\andre\\IdeaProjects\\ProiectDotNet\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\prico\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,14 +22,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\andre\\Downloads\\Nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\prico\\Desktop\\Classification-of-IrisFlower\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\prico\\Desktop\\Classification-of-IrisFlower\\Domain\\Domain.csproj"
+              "C:\\Users\\andre\\IdeaProjects\\ProiectDotNet\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\andre\\IdeaProjects\\ProiectDotNet\\Domain\\Domain.csproj"
               }
             }
           }
@@ -43,16 +44,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "MediatR": {
-              "target": "Package",
-              "version": "[9.0.0, )"
-            },
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[6.0.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -63,26 +54,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\prico\\Desktop\\Classification-of-IrisFlower\\Domain\\Domain.csproj": {
+    "C:\\Users\\andre\\IdeaProjects\\ProiectDotNet\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\prico\\Desktop\\Classification-of-IrisFlower\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\IdeaProjects\\ProiectDotNet\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\prico\\Desktop\\Classification-of-IrisFlower\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\prico\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\prico\\Desktop\\Classification-of-IrisFlower\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\andre\\IdeaProjects\\ProiectDotNet\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\andre\\IdeaProjects\\ProiectDotNet\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\prico\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -90,6 +76,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\andre\\Downloads\\Nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -117,26 +104,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\prico\\Desktop\\Classification-of-IrisFlower\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\andre\\IdeaProjects\\ProiectDotNet\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\prico\\Desktop\\Classification-of-IrisFlower\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\IdeaProjects\\ProiectDotNet\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\prico\\Desktop\\Classification-of-IrisFlower\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\prico\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\prico\\Desktop\\Classification-of-IrisFlower\\Persistence\\obj\\",
+        "projectPath": "C:\\Users\\andre\\IdeaProjects\\ProiectDotNet\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\andre\\IdeaProjects\\ProiectDotNet\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\prico\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -144,14 +126,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\andre\\Downloads\\Nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\prico\\Desktop\\Classification-of-IrisFlower\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\prico\\Desktop\\Classification-of-IrisFlower\\Application\\Application.csproj"
+              "C:\\Users\\andre\\IdeaProjects\\ProiectDotNet\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\andre\\IdeaProjects\\ProiectDotNet\\Application\\Application.csproj"
               }
             }
           }
@@ -165,12 +148,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[5.0.11, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -181,12 +158,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

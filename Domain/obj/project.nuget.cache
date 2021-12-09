@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Uw2o0J5G3RsJ6BxvkF8ummqr7CPvo53yfxhZ5VKxnC+QB2MgUdIG+CI4ceMYVSP+ALNVqF1hZMq8hoUUKszxJw==",
+  "dgSpecHash": "QQwOhaQSKAUUOl+Q2vdbF78133fx4AsWbSOHUnkXkqNwVlJ478U5BHSiQrUFs+ZPePJR31F1ufiqmNgAPwONRg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\prico\\Desktop\\Classification-of-IrisFlower\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\andre\\IdeaProjects\\ProiectDotNet\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
