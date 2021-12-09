@@ -45,5 +45,5 @@ jobs:
         shell: powershell
         run: |
           .\.sonar\scanner\dotnet-sonarscanner begin /k:"PaladiAlexandru_Classification-of-IrisFlower" /o:"paladialexandru" /d:sonar.login="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io"
-          dotnet build ProiectDotNet.sln 
+          dotnet build Classification.of.iris.flower.sln
           .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.login="${{ secrets.SONAR_TOKEN }}"
