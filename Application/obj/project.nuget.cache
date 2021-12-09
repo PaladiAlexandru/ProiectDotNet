@@ -1,17 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "Hc+as8ifItNB/X5Y3ARrAFi9xdRDBF8hX3zJPEP1mut5gpHfELGHIzU14mG1SbFFu4nXRx5yFofmz4ywDj/KWQ==",
+  "dgSpecHash": "irC+VPCmVLumAqM66OtE8rLAcZBc9s1ptK5npkzZe5+p8c5927ZVItr3seFwy8jEDrvJqxBifwYspaWIKuPTWw==",
   "success": false,
   "projectFilePath": "C:\\Users\\andre\\IdeaProjects\\ProiectDotNet\\Application\\Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0\\microsoft.entityframeworkcore.6.0.0.nupkg.sha512"
+  ],
   "logs": [
     {
-      "code": "NU1201",
+      "code": "NU1202",
       "level": "Error",
-      "message": "Project Domain is not compatible with net5.0.403 (.NETCoreApp,Version=v5.0.403). Project Domain supports: net6.0 (.NETCoreApp,Version=v6.0)",
-      "libraryId": "Domain",
+      "message": "Package Microsoft.EntityFrameworkCore 6.0.0 is not compatible with net5.0 (.NETCoreApp,Version=v5.0). Package Microsoft.EntityFrameworkCore 6.0.0 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Microsoft.EntityFrameworkCore",
       "targetGraphs": [
-        "net5.0.403"
+        "net5.0"
       ]
     }
   ]
